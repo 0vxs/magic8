@@ -5,7 +5,9 @@ It's literally just a Magic 8 Ball in your terminal... Yes, that's it.
 
 ---
 
-【~ Installation (examples using the "magic8" name, you can pick any name you want, or just rename it yourself if you want, your choice) ~】
+【~ Installation ~】
+
+The examples are using the "magic8" name, but you can pick any name you want, or just rename it yourself if you want, your choice
 
 
 1. Copy the script to one of the names you like:
@@ -26,12 +28,14 @@ sudo mv ~/Downloads/magic8 /usr/bin/magic8
 
 You can use any of the following names (they all do the same thing):
 
+
 - magic8
 - 8ball
 - magic8ball
 - mono8
 - mono8ball
 - monoball
+
 
 You can rename any of these as you please, it's all up to you :D 
 
