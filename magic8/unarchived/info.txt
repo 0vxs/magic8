@@ -1,0 +1,2 @@
+You can pick whichever name(s) you prefer here
+Place any of these in /usr/bin, and you should be able to use them in your Terminal!
