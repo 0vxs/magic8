@@ -1,4 +1,4 @@
-#【~ 🎱 Magic8 ~】
+# 【~ Magic8 ~】
 
 Magic8 is just a fun, no-purpose Command!  
 It's literally just a Magic 8 Ball in your terminal... Yes, that's it.
