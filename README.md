@@ -44,3 +44,4 @@ You can rename any of these as you please, it's all up to you :D
 【~ Disclaimer ~】
 
 This command has no real meaning. It's purely for fun!
+This command was made for Linux, don't expect it to work well on Windows or macOS, if it does at all. (It probably does tbh)
